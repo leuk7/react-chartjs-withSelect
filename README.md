@@ -1,5 +1,10 @@
 # Simple React Chart js with a select option.
 
+## Requirements
+
+- Node.js
+- Install dependencies from `package.json`
+
 ## Available Scripts
 
 In the project directory, you can run:
